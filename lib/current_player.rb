@@ -12,3 +12,7 @@ end
  return counter
 
 end
+
+current_player(board)
+
+end
