@@ -5,7 +5,6 @@ counter = 0
 board.each do |space|
 
   if space == "X" || space == "0"
-  else nil
 
   counter += 1
 
