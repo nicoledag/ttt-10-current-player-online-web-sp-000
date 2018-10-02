@@ -12,4 +12,6 @@ board.each do |space|
 
  end
 
+ return counter
+
 end
