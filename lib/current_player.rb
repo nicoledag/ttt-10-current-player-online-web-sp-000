@@ -18,10 +18,10 @@ end
 current_player(board)
 
 if turn_count(board) % 2 == 0
-  return "X"
+  current_player = "X"
 
-else turn_count(board)
-  return "O"
+else
+  current_player = "O"
 
  end
 end
