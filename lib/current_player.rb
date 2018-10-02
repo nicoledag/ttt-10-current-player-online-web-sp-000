@@ -4,7 +4,7 @@ counter = 0
 
 board.each do |space|
 
-  if space == "X" || space == "0"
+  if space == "X" || space == "O"
 
   counter +=1
 
